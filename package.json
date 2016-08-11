@@ -22,7 +22,7 @@
   "main": "./lib/passport-intuit",
   "dependencies": {
     "pkginfo": "0.2.x",
-    "passport-openid": "0.3.x"
+    "passport-openid": "toddgeist/passport-openid"
   },
   "devDependencies": {
     "vows": "0.6.x"
